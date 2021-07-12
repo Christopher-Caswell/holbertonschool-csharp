@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Write a Bash script that initializes, builds, and
 # runs a new C# project from a folder titled 2-new_project.
 
