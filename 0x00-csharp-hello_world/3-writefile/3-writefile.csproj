@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_3_writeline</RootNamespace>
+    <RootNamespace>_3_writefile</RootNamespace>
   </PropertyGroup>
 
 </Project>
