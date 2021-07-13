@@ -1,0 +1,11 @@
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal.cs\obj\Debug\netcoreapp2.1\11-print_diagonal.cs.csprojAssemblyReference.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal.cs\obj\Debug\netcoreapp2.1\11-print_diagonal.cs.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal.cs\obj\Debug\netcoreapp2.1\11-print_diagonal.cs.AssemblyInfoInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal.cs\obj\Debug\netcoreapp2.1\11-print_diagonal.cs.AssemblyInfo.cs
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal.cs\bin\Debug\netcoreapp2.1\11-print_diagonal.cs.deps.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal.cs\bin\Debug\netcoreapp2.1\11-print_diagonal.cs.runtimeconfig.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal.cs\bin\Debug\netcoreapp2.1\11-print_diagonal.cs.runtimeconfig.dev.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal.cs\bin\Debug\netcoreapp2.1\11-print_diagonal.cs.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal.cs\bin\Debug\netcoreapp2.1\11-print_diagonal.cs.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal.cs\obj\Debug\netcoreapp2.1\11-print_diagonal.cs.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-ifelse_loops_methods\11-print_diagonal.cs\obj\Debug\netcoreapp2.1\11-print_diagonal.cs.pdb
