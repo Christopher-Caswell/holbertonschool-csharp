@@ -6,7 +6,9 @@ namespace _5_print_comb
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+        for (int woot = 0; woot < 99; woot++)
+            Console.Write("{0:D2}, ", woot);
+        Console.Write("99\n");
         }
     }
 }
