@@ -2,11 +2,14 @@
 
 namespace _7_islower
 {
-    class Program
+    class Character
     {
-        static void Main(string[] args)
+        public static bool islower(char c)
         {
-            Console.WriteLine("Hello World!");
+            if (c >= 97 && c <= 122)
+            return true;
+            return false;
+
         }
     }
 }
