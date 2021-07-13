@@ -1,0 +1,11 @@
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-hello_world\3-writeline\bin\Debug\netcoreapp2.1\3-makeline.deps.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-hello_world\3-writeline\bin\Debug\netcoreapp2.1\3-makeline.runtimeconfig.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-hello_world\3-writeline\bin\Debug\netcoreapp2.1\3-makeline.runtimeconfig.dev.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-hello_world\3-writeline\bin\Debug\netcoreapp2.1\3-makeline.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-hello_world\3-writeline\bin\Debug\netcoreapp2.1\3-makeline.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-hello_world\3-writeline\obj\Debug\netcoreapp2.1\3-makeline.csprojAssemblyReference.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-hello_world\3-writeline\obj\Debug\netcoreapp2.1\3-makeline.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-hello_world\3-writeline\obj\Debug\netcoreapp2.1\3-makeline.AssemblyInfoInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-hello_world\3-writeline\obj\Debug\netcoreapp2.1\3-makeline.AssemblyInfo.cs
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-hello_world\3-writeline\obj\Debug\netcoreapp2.1\3-makeline.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-hello_world\3-writeline\obj\Debug\netcoreapp2.1\3-makeline.pdb

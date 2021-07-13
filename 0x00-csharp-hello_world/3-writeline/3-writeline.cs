@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _3_writefile
+namespace _3_makeline
 {
     class Program
     {
