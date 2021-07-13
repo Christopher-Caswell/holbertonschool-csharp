@@ -6,7 +6,8 @@ namespace _4_print_hexa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+        for (int woot = 0; woot < 99; woot++)
+            Console.Write("{0:D} = 0x{0:x}\n", woot);
         }
     }
 }
