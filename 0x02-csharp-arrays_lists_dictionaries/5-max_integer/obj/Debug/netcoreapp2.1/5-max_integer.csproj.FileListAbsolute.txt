@@ -1,0 +1,11 @@
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\netcoreapp2.1\5-max_integer.csprojAssemblyReference.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\netcoreapp2.1\5-max_integer.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\netcoreapp2.1\5-max_integer.AssemblyInfoInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\netcoreapp2.1\5-max_integer.AssemblyInfo.cs
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\netcoreapp2.1\5-max_integer.deps.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\netcoreapp2.1\5-max_integer.runtimeconfig.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\netcoreapp2.1\5-max_integer.runtimeconfig.dev.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\netcoreapp2.1\5-max_integer.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\netcoreapp2.1\5-max_integer.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\netcoreapp2.1\5-max_integer.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\netcoreapp2.1\5-max_integer.pdb
