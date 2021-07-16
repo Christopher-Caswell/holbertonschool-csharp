@@ -1,0 +1,11 @@
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\netcoreapp2.1\12-linkedlist_insert.deps.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\netcoreapp2.1\12-linkedlist_insert.runtimeconfig.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\netcoreapp2.1\12-linkedlist_insert.runtimeconfig.dev.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\netcoreapp2.1\12-linkedlist_insert.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\bin\Debug\netcoreapp2.1\12-linkedlist_insert.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\netcoreapp2.1\12-linkedlist_insert.csprojAssemblyReference.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\netcoreapp2.1\12-linkedlist_insert.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\netcoreapp2.1\12-linkedlist_insert.AssemblyInfoInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\netcoreapp2.1\12-linkedlist_insert.AssemblyInfo.cs
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\netcoreapp2.1\12-linkedlist_insert.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x03-csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\obj\Debug\netcoreapp2.1\12-linkedlist_insert.pdb
