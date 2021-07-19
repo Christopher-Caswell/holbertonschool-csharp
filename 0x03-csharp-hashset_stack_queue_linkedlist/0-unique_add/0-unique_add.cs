@@ -5,10 +5,10 @@ using System.Collections.Generic;
     {
         public static int Sum(List<int> myList)
         {
-        HashSet<int> womp = new HashSet<int>(myList);
+        // HashSet<int> womp = new HashSet<int>(myList);
         int total = 0;
 
-        foreach (int ite in womp)
+        foreach (int ite in myList)
         {
         total += ite;
         }
