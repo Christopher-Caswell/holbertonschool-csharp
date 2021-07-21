@@ -1,7 +1,6 @@
 ﻿using System;
 
-class Program
-{
+
     public enum Rating
     {
         Good,
@@ -23,5 +22,4 @@ class Program
         this.owner = owner;
         this.rating = rating;
     }
-}
 }

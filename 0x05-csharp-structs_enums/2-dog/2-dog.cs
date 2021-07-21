@@ -1,7 +1,5 @@
 ﻿using System;
 
-class Program
-{
     public enum Rating
     {
         Good,
@@ -24,4 +22,4 @@ class Program
         this.rating = rating;
     }
     }
-}
+    

@@ -1,7 +1,6 @@
 ﻿using System;
 
-class Program
-{
+
     public enum Rating
     {
         Good,
@@ -16,4 +15,3 @@ class Program
         public string owner;
         public Rating rating;
     }
-}
