@@ -1,6 +1,5 @@
 ﻿using System;
 
-
     public enum Rating
     {
         Good,
@@ -22,4 +21,7 @@
         this.owner = owner;
         this.rating = rating;
     }
-}
+    public override string ToString()
+    {
+        return $"Dog Name: {name}\nAge: {age}\nOwner: {owner}\nRating: {rating}";
+    }
