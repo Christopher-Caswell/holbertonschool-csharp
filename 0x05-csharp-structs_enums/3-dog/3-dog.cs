@@ -23,18 +23,5 @@ class Program
         this.owner = owner;
         this.rating = rating;
     }
-    public override string ToString()
-    {
-        return $"Dog Name: {name}\nAge: {age}\nOwner: {owner}\nRating: {rating}";
-    }
-    }
-
-    static void Main(string[] args)
-    {
-        Dog poppy;
-
-        poppy = new Dog("Poppy", 0.7f, "Kris", Rating.Excellent);
-
-        Console.WriteLine(poppy.ToString());
-    }
+}
 }
