@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>
+            Zombie Class, inherits from Enemy
+            Do me a heckin zombie
+            </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>
+            Zombie livelihood established
+            </summary>
+        </member>
+        <member name="F:Enemies.Zombie.name">
+            <summary>
+            Zombie name
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>
+            Zombie starts at 0 health
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>
+            Zombie instantialization
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary>
+            Do me a healthy zombie
+            </summary>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary>
+            Do a zombie a naming
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.ToString">
+            <summary>
+            Makes a redefined string version of the zombie on toString
+            </summary>
+        </member>
+    </members>
+</doc>

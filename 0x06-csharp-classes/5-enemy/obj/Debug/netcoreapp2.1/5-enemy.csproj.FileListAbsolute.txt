@@ -9,3 +9,4 @@ C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x06-csharp
 C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x06-csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.AssemblyInfo.cs
 C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x06-csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.dll
 C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x06-csharp-classes\5-enemy\obj\Debug\netcoreapp2.1\5-enemy.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x06-csharp-classes\5-enemy\bin\Debug\netcoreapp2.1\5-enemy.xml
