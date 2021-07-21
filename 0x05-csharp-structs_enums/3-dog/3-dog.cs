@@ -25,3 +25,4 @@
     {
         return $"Dog Name: {name}\nAge: {age}\nOwner: {owner}\nRating: {rating}";
     }
+}
