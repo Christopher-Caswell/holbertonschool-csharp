@@ -34,6 +34,7 @@ namespace Tests
         {
             Assert.AreEqual(-2, MyMath.Operations.Max(new List<int> {-2, -3, -4, -10}));
         }
+        
         [Test]
         /// <summary>
         /// Test all numbers the same

@@ -11,7 +11,7 @@ namespace Tests
 
         [Test]
         /// <summary>
-        /// Test if the method returns true if the string is a palindrome, generic basis
+        /// Test if the method returns true if the string is a palindrome, generic basis of tests
         /// </summary>
         public void Test1()
         {
@@ -20,12 +20,38 @@ namespace Tests
         
         [Test]
         /// <summary>
-        /// Test my favorite palindrome
+        /// Test uppercase and lowercase
+        /// </summary>
+        public void Test2()
+        {
+            Assert.True(Text.Str.IsPalindrome("Level"));
+        }
+        
+        [Test]
+        /// <summary>
+        /// Test empty string
+        /// </summary>
+        public void Test3()
+        {
+            Assert.True(Text.Str.IsPalindrome(""));
+        }
+        
+        [Test]
+        /// <summary>
+        /// Test with a string with spaces
         /// </summary>
         public void Test1()
         {
-            Assert.True(Text.Str.IsPalindrome("eva can i stack rods sad ass dork cats in a cave"));
+            Assert.True(Text.Str.IsPalindrome("a a"));
         }
-
+        
+        [Test]
+        /// <summary>
+        /// Test with punctuation
+        /// </summary>
+        public void Test1()
+        {
+            Assert.True(Text.Str.IsPalindrome("a,a"));
+        }
     }
 }
