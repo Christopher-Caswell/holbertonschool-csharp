@@ -40,7 +40,7 @@ namespace Tests
         /// <summary>
         /// Test with a string with spaces
         /// </summary>
-        public void Test1()
+        public void Test4()
         {
             Assert.True(Text.Str.IsPalindrome("a a"));
         }
@@ -49,7 +49,7 @@ namespace Tests
         /// <summary>
         /// Test with punctuation
         /// </summary>
-        public void Test1()
+        public void Test5()
         {
             Assert.True(Text.Str.IsPalindrome("a,a"));
         }
