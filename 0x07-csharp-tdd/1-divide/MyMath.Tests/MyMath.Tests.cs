@@ -68,7 +68,8 @@ namespace Tests
         /// </summary>
         public void Test7()
         {
-            Assert.IsNull(MyMath.Matrix.Divide(new[,]{{0, 0}, {0, 0}}, 0));
+            int[,] nuisance = null;
+            Assert.IsNull(MyMath.Matrix.Divide(nuisance, 1));
         }
     }
 }
