@@ -18,7 +18,7 @@ namespace Tests
         /// </summary>
         public void Test1()
         {
-            Assert.AreEqual(2, Text.CamelCase("helloWorld"));
+            Assert.AreEqual(2, Text.Str.CamelCase("helloWorld"));
         }
         [Test]
         /// <summary>
@@ -26,7 +26,7 @@ namespace Tests
         /// </summary>
         public void Test2()
         {
-            Assert.AreEqual(3, Text.CamelCase("pingIsGreat"));
+            Assert.AreEqual(3, Text.Str.CamelCase("pingIsGreat"));
         }
         [Test]
         /// <summary>
@@ -34,23 +34,23 @@ namespace Tests
         /// </summary>
         public void Test3()
         {
-            Assert.AreEqual(5, Text.CamelCase("areYouReadyToGrumble"));
+            Assert.AreEqual(5, Text.Str.CamelCase("areYouReadyToGrumble"));
         }
         [Test]
         /// <summary>
         /// Tests the CamelCase method, empty
         /// </summary>
-        public void Test1()
+        public void Test4()
         {
-            Assert.AreEqual(0, Text.CamelCase(""));
+            Assert.AreEqual(0, Text.Str.CamelCase(""));
         }
         [Test]
         /// <summary>
         /// Tests the CamelCase method, one word capitalized
         /// </summary>
-        public void Test1()
+        public void Test5()
         {
-            Assert.AreEqual(2, Text.CamelCase("Womp"));
+            Assert.AreEqual(2, Text.Str.CamelCase("Womp"));
         }
     }
 }
