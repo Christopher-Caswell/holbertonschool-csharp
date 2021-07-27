@@ -26,7 +26,7 @@ class Rectangle : Shape
         get { return width; }
 
         set {
-        if (value < 0) throw new ArgumentException("value", "Width must be greater than or equal to 0");
+        if (value < 0) throw new ArgumentException("Width must be greater than or equal to 0");
         else width = value;}
     }
     /// <summary>
@@ -37,7 +37,7 @@ class Rectangle : Shape
         get { return height; }
 
         set {
-        if (value < 0) throw new ArgumentException("value", "Height must be greater than or equal to 0");
+        if (value < 0) throw new ArgumentException("Height must be greater than or equal to 0");
         else height = value;}
     }
     /// <summary>
@@ -72,7 +72,7 @@ class Square : Rectangle
     
     set
     {
-    if (value < 0) throw new ArgumentException("value", "Size must be greater than or equal to 0.");
+    if (value < 0) throw new ArgumentException("Size must be greater than or equal to 0");
     size = value;
     Height = value;
     Width = value;
