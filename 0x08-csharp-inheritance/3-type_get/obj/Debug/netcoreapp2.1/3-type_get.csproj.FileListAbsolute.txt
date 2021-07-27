@@ -9,3 +9,4 @@ C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp
 C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.pdb
 C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.dll
 C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\obj\Debug\netcoreapp2.1\3-type_get.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\3-type_get\bin\Debug\netcoreapp2.1\3-type_get.xml

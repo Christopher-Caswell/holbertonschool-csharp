@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-type_get</name>
+    </assembly>
+    <members>
+        <member name="T:Obj">
+            <summary>
+            Learning the GetType() method
+            </summary>
+        </member>
+        <member name="M:Obj.Print(System.Object)">
+            <summary>
+            Returns the methods and properties of the object
+            </summary>
+        </member>
+    </members>
+</doc>

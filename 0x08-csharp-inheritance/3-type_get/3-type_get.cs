@@ -3,6 +3,7 @@ using System.Reflection;
 
     /// <summary>
     /// Learning the GetType() method
+    /// </summary>
     class Obj
     {
         /// <summary>
