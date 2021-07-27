@@ -62,5 +62,13 @@ namespace Tests
         {
             Assert.NotNull(MyMath.Matrix.Divide(new[,]{{1, 2}, {3, 4}}, 4));
         }
+        [Test]
+        /// <summary>
+        /// Test method if the matrix is null
+        /// </summary>
+        public void Test7()
+        {
+            Assert.IsNull(MyMath.Matrix.Divide(new[,]{{0, 0}, {0, 0}}, 0));
+        }
     }
 }
