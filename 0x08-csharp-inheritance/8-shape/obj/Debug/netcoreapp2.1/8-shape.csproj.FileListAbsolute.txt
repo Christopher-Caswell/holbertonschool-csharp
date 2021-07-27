@@ -1,0 +1,11 @@
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\netcoreapp2.1\8-shape.csprojAssemblyReference.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\netcoreapp2.1\8-shape.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\netcoreapp2.1\8-shape.AssemblyInfoInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\netcoreapp2.1\8-shape.AssemblyInfo.cs
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\netcoreapp2.1\8-shape.deps.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\netcoreapp2.1\8-shape.runtimeconfig.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\netcoreapp2.1\8-shape.runtimeconfig.dev.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\netcoreapp2.1\8-shape.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\bin\Debug\netcoreapp2.1\8-shape.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\netcoreapp2.1\8-shape.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\8-shape\obj\Debug\netcoreapp2.1\8-shape.pdb

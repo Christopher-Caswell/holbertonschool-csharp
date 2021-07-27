@@ -1,0 +1,11 @@
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\obj\Debug\netcoreapp2.1\5-shape.csprojAssemblyReference.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\obj\Debug\netcoreapp2.1\5-shape.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\obj\Debug\netcoreapp2.1\5-shape.AssemblyInfoInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\obj\Debug\netcoreapp2.1\5-shape.AssemblyInfo.cs
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\bin\Debug\netcoreapp2.1\5-shape.deps.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\bin\Debug\netcoreapp2.1\5-shape.runtimeconfig.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\bin\Debug\netcoreapp2.1\5-shape.runtimeconfig.dev.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\bin\Debug\netcoreapp2.1\5-shape.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\bin\Debug\netcoreapp2.1\5-shape.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\obj\Debug\netcoreapp2.1\5-shape.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\5-shape\obj\Debug\netcoreapp2.1\5-shape.pdb

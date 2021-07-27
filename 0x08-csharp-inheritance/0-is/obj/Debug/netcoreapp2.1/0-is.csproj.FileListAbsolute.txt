@@ -1,0 +1,11 @@
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp2.1\0-is.deps.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp2.1\0-is.runtimeconfig.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp2.1\0-is.runtimeconfig.dev.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp2.1\0-is.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\0-is\bin\Debug\netcoreapp2.1\0-is.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp2.1\0-is.csprojAssemblyReference.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp2.1\0-is.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp2.1\0-is.AssemblyInfoInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp2.1\0-is.AssemblyInfo.cs
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp2.1\0-is.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x08-csharp-inheritance\0-is\obj\Debug\netcoreapp2.1\0-is.pdb
