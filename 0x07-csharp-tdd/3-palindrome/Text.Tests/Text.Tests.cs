@@ -51,8 +51,7 @@ namespace Tests
         /// </summary>
         public void StringWithPunctuation_IsPalindrome_ReturnTrue()
         {
-            Assert.IsTrue(Str.IsPalindrome("A man, a plan, a canal: Panama.") == true);
-        }
+            Assert.IsTrue(Text.Str.IsPalindrome("A man, a plan, a canal: Panama.") == true);
         }
     }
 }
