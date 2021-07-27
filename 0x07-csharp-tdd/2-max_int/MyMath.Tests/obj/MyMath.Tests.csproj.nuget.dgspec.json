@@ -27,7 +27,11 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x07-csharp-tdd\\2-max_int\\MyMaTH\\MyMaTH.csproj": {
+                "projectPath": "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x07-csharp-tdd\\2-max_int\\MyMaTH\\MyMaTH.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -56,6 +60,56 @@
             "nunit": {
               "target": "Package",
               "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x07-csharp-tdd\\2-max_int\\MyMaTH\\MyMaTH.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x07-csharp-tdd\\2-max_int\\MyMaTH\\MyMaTH.csproj",
+        "projectName": "MyMaTH",
+        "projectPath": "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x07-csharp-tdd\\2-max_int\\MyMaTH\\MyMaTH.csproj",
+        "packagesPath": "C:\\Users\\Christopher Caswell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x07-csharp-tdd\\2-max_int\\MyMaTH\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Christopher Caswell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
             }
           },
           "imports": [

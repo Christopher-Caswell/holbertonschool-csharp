@@ -1,0 +1,10 @@
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x07-csharp-tdd\2-max_int\MyMaTH\bin\Debug\netstandard2.0\MyMaTH.xml
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x07-csharp-tdd\2-max_int\MyMaTH\bin\Debug\netstandard2.0\MyMaTH.deps.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x07-csharp-tdd\2-max_int\MyMaTH\bin\Debug\netstandard2.0\MyMaTH.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x07-csharp-tdd\2-max_int\MyMaTH\bin\Debug\netstandard2.0\MyMaTH.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x07-csharp-tdd\2-max_int\MyMaTH\obj\Debug\netstandard2.0\MyMaTH.csprojAssemblyReference.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x07-csharp-tdd\2-max_int\MyMaTH\obj\Debug\netstandard2.0\MyMaTH.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x07-csharp-tdd\2-max_int\MyMaTH\obj\Debug\netstandard2.0\MyMaTH.AssemblyInfoInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x07-csharp-tdd\2-max_int\MyMaTH\obj\Debug\netstandard2.0\MyMaTH.AssemblyInfo.cs
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x07-csharp-tdd\2-max_int\MyMaTH\obj\Debug\netstandard2.0\MyMaTH.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x07-csharp-tdd\2-max_int\MyMaTH\obj\Debug\netstandard2.0\MyMaTH.pdb
