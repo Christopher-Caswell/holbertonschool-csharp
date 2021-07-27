@@ -43,6 +43,21 @@ namespace Tests
         {
             Assert.AreEqual(9, MyMath.Operations.Max(new List<int> {9, 9, 9, 9, 9}));
         }
-
+        [Test]
+        /// <summary>
+        /// Test number in middle of list
+        /// </summary>
+        public void Test5()
+        {
+            Assert.AreEqual(2, MyMath.Operations.Max(new List<int> {1, 1, 2, 1, 1}));
+        }
+        [Test]
+        /// <summary>
+        /// Test number in empty list
+        /// </summary>
+        public void Test6()
+        {
+            Assert.AreEqual(0, MyMath.Operations.Max(new List<int> {}));
+        }
     }
 }
