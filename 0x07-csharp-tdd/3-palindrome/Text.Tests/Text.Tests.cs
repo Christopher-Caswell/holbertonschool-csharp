@@ -47,11 +47,12 @@ namespace Tests
         
         [Test]
         /// <summary>
-        /// Test with punctuation
+        /// Test with punctuation, thank you so much Clemens.
         /// </summary>
-        public void Test5()
+        public void StringWithPunctuation_IsPalindrome_ReturnTrue()
         {
-            Assert.True(Text.Str.IsPalindrome("a,a"));
+            Assert.IsTrue(Str.IsPalindrome("A man, a plan, a canal: Panama.") == true);
+        }
         }
     }
 }
