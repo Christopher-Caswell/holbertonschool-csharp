@@ -5,16 +5,31 @@ class Program
     static void Main(string[] args)
     {
         Rectangle aRect = new Rectangle();
-        aRect.Width = 10;
-        aRect.Height = 2;
 
         if (typeof(Rectangle).IsSubclassOf(typeof(Shape)))
             Console.WriteLine("Rectangle is a subclass of Shape");
         else
             Console.WriteLine("Rectangle is a NOT subclass of Shape");
 
-        Console.WriteLine("Width: {0}", aRect.Width);
-        Console.WriteLine("Height: {0}", aRect.Height);
+        try
+        {
+            aRect.Width = 2;
+            Console.WriteLine("Width: {0}", aRect.Width);
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
+
+        try
+        {
+            aRect.Height = -6;
+            Console.WriteLine("Height: {0}", aRect.Height);
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
 
         try
         {
@@ -22,7 +37,7 @@ class Program
         }
         catch (Exception e)
         {
-            Console.WriteLine(e);
+            Console.WriteLine(e.Message);
         }
     }
 }

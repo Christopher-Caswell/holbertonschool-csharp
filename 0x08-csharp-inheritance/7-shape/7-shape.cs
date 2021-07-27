@@ -24,7 +24,7 @@ class Rectangle : Shape
         get { return width; }
 
         set {
-        if (value < 0) throw new ArgumentOutOfRangeException("value", "Width must be greater than or equal to 0.");
+        if (value < 0) throw new ArgumentException("value", "Width must be greater than or equal to 0.");
         else width = value;}
     }
     /// <summary>
@@ -34,7 +34,7 @@ class Rectangle : Shape
         get { return height; }
 
         set {
-        if (value < 0) throw new ArgumentOutOfRangeException("value", "Height must be greater than or equal to 0.");
+        if (value < 0) throw new ArgumentException("value", "Height must be greater than or equal to 0.");
         else height = value;}
     }
     /// <summary>
