@@ -33,7 +33,7 @@ namespace Tests
         /// </summary>
         public void Test3()
         {
-            Assert.AreEqual({{1, 2}, {3, 4}}, MyMath.Matrix.Divide(new[,]{{1, 2}, {3, 4}}, 1));
+            Assert.AreEqual(new[,]{{1, 2}, {3, 4}}, MyMath.Matrix.Divide(new[,]{{1, 2}, {3, 4}}, 1));
         }
         
         [Test]
