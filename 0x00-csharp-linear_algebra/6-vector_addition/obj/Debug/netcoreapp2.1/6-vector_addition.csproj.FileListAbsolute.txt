@@ -1,0 +1,12 @@
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp2.1\6-vector_addition.csprojAssemblyReference.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp2.1\6-vector_addition.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp2.1\6-vector_addition.AssemblyInfoInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp2.1\6-vector_addition.AssemblyInfo.cs
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp2.1\6-vector_addition.xml
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp2.1\6-vector_addition.deps.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp2.1\6-vector_addition.runtimeconfig.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp2.1\6-vector_addition.runtimeconfig.dev.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp2.1\6-vector_addition.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\6-vector_addition\bin\Debug\netcoreapp2.1\6-vector_addition.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp2.1\6-vector_addition.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\6-vector_addition\obj\Debug\netcoreapp2.1\6-vector_addition.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x09-csharp-linear_algebra\\6-vector_addition\\6-vector_addition.csproj": {}
+    "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x00-csharp-linear_algebra\\6-vector_addition\\6-vector_addition.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x09-csharp-linear_algebra\\6-vector_addition\\6-vector_addition.csproj": {
+    "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x00-csharp-linear_algebra\\6-vector_addition\\6-vector_addition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x09-csharp-linear_algebra\\6-vector_addition\\6-vector_addition.csproj",
+        "projectUniqueName": "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x00-csharp-linear_algebra\\6-vector_addition\\6-vector_addition.csproj",
         "projectName": "6-vector_addition",
-        "projectPath": "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x09-csharp-linear_algebra\\6-vector_addition\\6-vector_addition.csproj",
+        "projectPath": "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x00-csharp-linear_algebra\\6-vector_addition\\6-vector_addition.csproj",
         "packagesPath": "C:\\Users\\Christopher Caswell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x09-csharp-linear_algebra\\6-vector_addition\\obj\\",
+        "outputPath": "C:\\Users\\Christopher Caswell\\Documents\\GitHub\\holbertonschool-csharp\\0x00-csharp-linear_algebra\\6-vector_addition\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
