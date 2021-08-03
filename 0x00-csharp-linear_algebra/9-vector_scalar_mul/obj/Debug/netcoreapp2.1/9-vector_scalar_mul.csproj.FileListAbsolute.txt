@@ -1,0 +1,4 @@
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\netcoreapp2.1\9-vector_scalar_mul.csprojAssemblyReference.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\netcoreapp2.1\9-vector_scalar_mul.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\netcoreapp2.1\9-vector_scalar_mul.AssemblyInfoInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x00-csharp-linear_algebra\9-vector_scalar_mul\obj\Debug\netcoreapp2.1\9-vector_scalar_mul.AssemblyInfo.cs
