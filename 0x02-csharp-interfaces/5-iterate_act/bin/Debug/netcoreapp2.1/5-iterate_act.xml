@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-iterate_act</name>
+    </assembly>
+    <members>
+        <member name="T:Base">
+            <summary>
+            Base
+            </summary>
+        </member>
+        <member name="P:Base.name">
+            <summary>
+            Attribute name
+            </summary>
+        </member>
+        <member name="M:Base.ToString">
+            <summary>
+            Method string override
+            </summary>
+        </member>
+        <member name="T:IInteractive">
+            <summary>
+            Sudo me a do
+            </summary>
+        </member>
+        <member name="T:IBreakable">
+            <summary>
+            How broken tho
+            </summary>
+        </member>
+        <member name="T:ICollectable">
+            <summary>
+            A bool of collectibility
+            </summary>
+        </member>
+        <member name="T:Door">
+            <summary>
+            Door class
+            </summary>
+        </member>
+        <member name="M:Door.#ctor(System.String)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:Door.Interact">
+            <summary>
+            Method Interact
+            </summary>
+        </member>
+        <member name="T:Decoration">
+            <summary>
+            Decoration class
+            </summary>
+        </member>
+        <member name="P:Decoration.isQuestItem">
+            <summary>
+            Quest Bool
+            </summary>
+        </member>
+        <member name="P:Decoration.durability">
+            <summary>
+            Durability base
+            </summary>
+        </member>
+        <member name="M:Decoration.#ctor(System.String,System.Int32,System.Boolean)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:Decoration.Interact">
+            <summary>
+            Interact method
+            </summary>
+        </member>
+        <member name="M:Decoration.Break">
+            <summary>
+            Break method
+            </summary>
+        </member>
+        <member name="T:Key">
+            <summary>
+            Key class
+            </summary>
+        </member>
+        <member name="P:Key.isCollected">
+            <summary>
+            isCollected bool
+            </summary>
+        </member>
+        <member name="M:Key.#ctor(System.String,System.Boolean)">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:Key.Collect">
+            <summary>
+            Collect method
+            </summary>
+        </member>
+        <member name="T:RoomObjects">
+            <summary>
+            RoomObjects class
+            </summary>
+        </member>
+        <member name="M:RoomObjects.IterateAction(System.Collections.Generic.List{Base},System.Type)">
+            <summary>
+            Iterate method
+            </summary>
+        </member>
+    </members>
+</doc>

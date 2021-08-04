@@ -1,0 +1,11 @@
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.csprojAssemblyReference.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.AssemblyInfoInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.AssemblyInfo.cs
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.deps.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.runtimeconfig.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.runtimeconfig.dev.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\1-user_interface\bin\Debug\netcoreapp2.1\1-user_interface.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\1-user_interface\obj\Debug\netcoreapp2.1\1-user_interface.pdb

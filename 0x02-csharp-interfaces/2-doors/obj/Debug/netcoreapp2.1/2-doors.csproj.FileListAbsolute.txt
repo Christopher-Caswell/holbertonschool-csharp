@@ -1,0 +1,11 @@
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.csprojAssemblyReference.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.csproj.CoreCompileInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.AssemblyInfoInputs.cache
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.AssemblyInfo.cs
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.deps.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.runtimeconfig.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.runtimeconfig.dev.json
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\2-doors\bin\Debug\netcoreapp2.1\2-doors.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.dll
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x02-csharp-interfaces\2-doors\obj\Debug\netcoreapp2.1\2-doors.pdb
