@@ -183,29 +183,17 @@ public class RoomObjects
     {
         foreach (var item in roomObjects)
         {
-            if (typeof(IInteractive).IsAssignableFrom(type))
+            if (item is IInteractive && type == typeof(IInteractive))
             {
-                try
-                {
-                    ((IInteractive)item).Interact();
-                }
-                catch {}
+                ((IInteractive)item).Interact();
             }
-            if (typeof(IBreakable).IsAssignableFrom(type))
+            if (item is IBreakable && type == typeof(IBreakable))
             {
-                try
-                {
-                    ((IBreakable)item).Break();
-                }
-                catch {}
+                ((IBreakable)item).Break();
             }
-            if (typeof(ICollectable).IsAssignableFrom(type))
+            if (item is ICollectable && type == typeof(ICollectable))
             {
-                try
-                {
-                    ((ICollectable)item).Collect();
-                }
-                catch {}
+                ((ICollectable)item).Collect();
             }
         }
     }

@@ -87,7 +87,7 @@ class Decoration : Base, IInteractive, IBreakable
     {
         this.name = name;
         this.durability = durability;
-        this.isQuestItem = false;
+        this.isQuestItem = isQuestItem;
     }
 
     /// <summary>
@@ -99,18 +99,16 @@ class Decoration : Base, IInteractive, IBreakable
         {
             Console.WriteLine($"The {name} has been broken.");
         }
-        else
+        if (this.isQuestItem == true)
         {
-            if (this.isQuestItem == true)
-            {
-                Console.WriteLine($"You look at the {name}. There's a key inside.");
-            }
-            else
-            {
-                Console.WriteLine($"You look at the {name}. Not much to see here.");
-            }
+            Console.WriteLine($"You look at the {name}. There's a key inside.");
+        }
+        if (this.isQuestItem == false)
+        {
+            Console.WriteLine($"You look at the {name}. Not much to see here.");
         }
     }
+
 
     /// <summary>
     /// Break method
