@@ -9,3 +9,4 @@ C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp
 C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-generics\5-concatenate\bin\Debug\netcoreapp2.1\5-concatenate.pdb
 C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-generics\5-concatenate\obj\Debug\netcoreapp2.1\5-concatenate.dll
 C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-generics\5-concatenate\obj\Debug\netcoreapp2.1\5-concatenate.pdb
+C:\Users\Christopher Caswell\Documents\GitHub\holbertonschool-csharp\0x01-csharp-generics\5-concatenate\bin\Debug\netcoreapp2.1\5-concatenate.xml

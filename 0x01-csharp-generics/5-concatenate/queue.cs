@@ -121,7 +121,7 @@ class Queue<T>
         }
         if (typeof(T) != typeof(string) && typeof(T) != typeof(char))
         {
-            Console.WriteLine("Concatenate() is for a queue of Strings or Chars only");
+            Console.WriteLine("Concatenate() is for a queue of Strings or Chars only.");
             return null;
         }
 
@@ -131,7 +131,7 @@ class Queue<T>
         for (int i = 0; i < count; i++)
         {
             x += current.value.ToString();
-            if (typeof(T) == typeof(string))
+            if (typeof(T) == typeof(string) && current.next != null)
             {
                 x += " ";
             }

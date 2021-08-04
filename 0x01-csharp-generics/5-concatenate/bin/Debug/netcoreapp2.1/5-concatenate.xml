@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>5-concatenate</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary>
+            Generic queue class.
+            </summary>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary>
+            Return Queue type.
+            </summary>
+        </member>
+        <member name="T:Queue`1.Node">
+            <summary>
+            Node class.
+            </summary>
+        </member>
+        <member name="M:Queue`1.Node.#ctor(`0)">
+            <summary>
+            Set a value for a node.
+            </summary>
+        </member>
+        <member name="M:Queue`1.Enqueue(`0)">
+            <summary>
+            Enqueue a value to the queue.
+            </summary>
+        </member>
+        <member name="M:Queue`1.Count">
+            <summary>
+            Count Nodes in the queue.
+            </summary>
+        </member>
+        <member name="M:Queue`1.Dequeue">
+            <summary>
+            Dequeue a value from the queue.
+            </summary>
+        </member>
+        <member name="M:Queue`1.Peek">
+            <summary>
+            Peek at the next value in the queue.
+            </summary>
+        </member>
+        <member name="M:Queue`1.Print">
+            <summary>
+            Print the queue.
+            </summary>
+        </member>
+        <member name="M:Queue`1.Concatenate">
+            <summary>
+            Concatenate the queue.
+            </summary>
+        </member>
+    </members>
+</doc>
