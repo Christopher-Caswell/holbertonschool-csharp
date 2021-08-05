@@ -5,3 +5,7 @@
 0x02-csharp-interfaces/4-keys/main.cs
 0x02-csharp-interfaces/5-iterate_act/main.cs
 0x02-csharp-interfaces/6-generic_iteration/main.cs
+0x03-csharp-delegates_events/0-universal_health/main.cs
+0x03-csharp-delegates_events/1-damage_delegation/main.cs
+0x03-csharp-delegates_events/2-validation/main.cs
+0x03-csharp-delegates_events/3-modified_behavior/main.cs
