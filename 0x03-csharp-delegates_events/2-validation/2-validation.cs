@@ -52,7 +52,7 @@ public class Player
             damage = 0.0f;
         }
         ValidateHP(this.hp - damage);
-        Console.WriteLine($"{this.name} took {damage} damage!");
+        Console.WriteLine($"{this.name} takes {damage} damage!");
     }
 
     /// <summary>
