@@ -50,11 +50,11 @@ public class Player
         if (damage > 0.0f)
         {
             this.hp -= damage;
-            Console.WriteLine($"{this.name} took {damage} damage!");
+            Console.WriteLine($"{this.name} takes {damage} damage!");
         }
         else
         {
-            Console.WriteLine($"{this.name} took 0 damage!");
+            Console.WriteLine($"{this.name} takes 0 damage!");
         }
     }
 
