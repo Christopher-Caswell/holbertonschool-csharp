@@ -19,7 +19,7 @@
             The playa's args, playa
             </summary>
         </member>
-        <member name="F:CurrentHPArgs.currentHP">
+        <member name="F:CurrentHPArgs.currentHp">
             <summary>
             The playa's health, playa
             </summary>

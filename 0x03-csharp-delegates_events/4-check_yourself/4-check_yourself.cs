@@ -20,14 +20,14 @@ public class CurrentHPArgs : EventArgs
     /// <summary>
     /// The playa's health, playa
     /// </summary>
-    public readonly float currentHP;
+    public readonly float currentHp;
 
     /// <summary>
     /// Defines a new instance of the <see cref="CurrentHPArgs"/> class.
     /// </summary>
-    public CurrentHPArgs(float newHP)
+    public CurrentHPArgs(float newHp)
     {
-        this.currentHP = newHP;
+        this.currentHp = newHp;
     }
 
 }
@@ -161,23 +161,23 @@ public class Player
     /// </summary>
     private void CheckStatus(object sender, CurrentHPArgs e)
     {
-        if (e.currentHP == this.maxHp)
+        if (e.currentHp == this.maxHp)
         {
             Console.WriteLine($"{this.name} is in perfect health!");
         }
-        else if (e.currentHP >= this.maxHp / 2)
+        else if (e.currentHp >= this.maxHp / 2)
         {
             Console.WriteLine($"{this.name} is doing well!");
         }
-        else if (e.currentHP >= this.maxHp / 4 && e.currentHP < this.maxHp / 2)
+        else if (e.currentHp >= this.maxHp / 4 && e.currentHp < this.maxHp / 2)
         {
             Console.WriteLine($"{this.name} isn't doing too great...");
         }
-        else if (e.currentHP < this.maxHp / 4 && e.currentHP > 0)
+        else if (e.currentHp < this.maxHp / 4 && e.currentHp > 0)
         {
             Console.WriteLine($"{this.name} needs help!");
         }
-        else if (e.currentHP == 0)
+        else if (e.currentHp == 0)
         {
             Console.WriteLine($"{this.name} is knocked out!");
         }
