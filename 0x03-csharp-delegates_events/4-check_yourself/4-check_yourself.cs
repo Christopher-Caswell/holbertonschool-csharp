@@ -16,6 +16,7 @@ public delegate float CalculateModifier(float baseValue, Modifier modifier);
 /// </summary>
 public class CurrentHPArgs : EventArgs
 {
+
     /// <summary>
     /// The playa's health, playa
     /// </summary>
@@ -28,6 +29,7 @@ public class CurrentHPArgs : EventArgs
     {
         this.currentHP = newHP;
     }
+
 }
 
 /// <summary>
@@ -69,20 +71,15 @@ public class Player
     /// </summary>
     public Player(string name="Player", float maxHp=100.0f)
     {
-        if (name != null)
-            this.name = name;
-        if (maxHp > 0.0f)
-        {
-            this.maxHp = maxHp;
-            this.hp = maxHp;
-        }
-        else
-        {
-            maxHp = 100.0f;
-            this.hp = 100.0f;
-            Console.WriteLine("maxHp must be greater than 0. maxHp set to 100f by default.");
-        }
+        this.name = name;
         this.status = $"{this.name} is ready to go!";
+        if (maxHp <= 0)
+        {
+            Console.WriteLine("maxHp must be greater than 0. maxHp set to 100f by default.");
+            maxHp = 100.0f;
+        }
+        this.maxHp = maxHp;
+        this.hp = maxHp;
         HPCheck += CheckStatus;
     }
     /// <summary>
@@ -102,8 +99,8 @@ public class Player
         {
             damage = 0.0f;
         }
-        ValidateHP(this.hp - damage);
         Console.WriteLine($"{this.name} takes {damage} damage!");
+        ValidateHP(this.hp - damage);
     }
 
     /// <summary>
@@ -116,8 +113,8 @@ public class Player
             heal = 0.0f;
         }
 
-        ValidateHP(this.hp + heal);
         Console.WriteLine($"{this.name} heals {heal} HP!");
+        ValidateHP(this.hp + heal);
     }
 
     /// <summary>
