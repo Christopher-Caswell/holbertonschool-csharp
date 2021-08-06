@@ -171,7 +171,7 @@ public class Player
         }
         else if (e.currentHP >= this.maxHp / 4 && e.currentHP < this.maxHp / 2)
         {
-            Console.WriteLine($"{this.name} isn't doing too great. . .");
+            Console.WriteLine($"{this.name} isn't doing too great...");
         }
         else if (e.currentHP < this.maxHp / 4 && e.currentHP > 0)
         {
